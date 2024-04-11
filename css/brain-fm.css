@@ -1,5 +1,4 @@
 body {
-  color: #eee);
   background-color: #4915f8;
   font-family: sans-serif;
 }
@@ -8,42 +7,42 @@ input[type="button"],button {
   border-radius: 30px;
   font-weight: bold;
   border: 0px;
-  padding: 10px 25px;
+  padding: 11px 28px;
   color:#eee;
   background: linear-gradient(90deg, rgb(250, 185, 4), rgb(239, 118, 5));
-
 }
 
 .section-1 {
     display: flex;
     align-items: center;
     color: #eee;
-    margin: 35px;
+    margin: 10px 30px;
 }
 
-a:visited {
-    color: #eee;
-}
-
-.headline-1  {
-    font-size: 30px;
-}
-
-.headline-2  {
-  font-size: 20px;
-  font-weight: bold;
-}
 
 .section-2 {
   display: flex;
   justify-content: center;
   color: #eee;
-  margin: 200px;
+  margin: 150px;
 }
 
 .section-3 {
   display: flex;
   justify-content: center;
-  align-items: center;
   color: #eee;
+}
+
+a:visited {
+  color: #eee;
+}
+
+.headline-1  {
+  font-size: 30px;
+}
+
+.headline-2  {
+font-size: 20px;
+font-weight: bold;
+color: white;
 }
